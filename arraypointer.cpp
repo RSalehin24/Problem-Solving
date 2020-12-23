@@ -1,4 +1,4 @@
-/*Use Case: When the array is too large and it's size for different dimension are variable.*/
+/*Use Case: When the array is too large and it's size for different dimensions are variable.*/
 
 #include <iostream>
 using namespace std;
