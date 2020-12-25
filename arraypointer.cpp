@@ -1,4 +1,4 @@
-/*Use Case: When the array is too large and it's size for different dimensions are variable.*/
+/*Use Case: When the array is too large and it's size for different dimensions are variable. arrat pointer*/
 
 #include <iostream>
 using namespace std;
